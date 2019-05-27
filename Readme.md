@@ -1,2 +1,2 @@
-# [Wiki](https://github.com/maciejjankowski/2019/wiki)
-## [Wiki](https://github.com/maciejjankowski/2018/wiki)
+# [2019](https://github.com/maciejjankowski/2019/wiki)
+## [2018](https://github.com/maciejjankowski/2018/wiki)
