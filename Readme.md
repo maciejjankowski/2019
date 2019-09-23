@@ -2,3 +2,6 @@
 ## [2018](https://github.com/maciejjankowski/2018/wiki)
 
 [Javascript Interview Questions](https://github.com/maciejjankowski/2018/wiki/Preparing-for-JavaScript-interview-questions)
+
+
+# [learn to code](https://github.com/maciejjankowski/learn-to-code)
